@@ -469,6 +469,11 @@ This project demonstrates practical experience with:
 - Business Intelligence
 
 ---
+## 📊 Live Power BI Dashboard
+
+Explore the interactive Power BI dashboard here:
+
+[View Live Healthcare Readmission Analytics Dashboard]https://app.powerbi.com/view?r=eyJrIjoiZDEwNTI0NmQtZTBjOC00NTQ5LTg4YmYtYmQ3NTVjZDA4Y2FlIiwidCI6IjAzNWRkZWY2LTI0MzMtNDhiNi04NTI2LTcwY2E4MTgxZjc2ZCIsImMiOjN9
 
 # Disclaimer
 
